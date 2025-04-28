@@ -1,7 +1,7 @@
 #!/bin/bash
 
-intro="/home/hazgal/koodjohvi/sprint16/sprint16.1/intro.mp3"
-musicloop="/home/hazgal/koodjohvi/sprint16/sprint16.1/loop.mp3"
+intro="/path/to/the/file/intro.mp3"
+musicloop="//path/to/file/loop.mp3"
 mpv "$intro" > /dev/null 2>&1 &
 intro_pid=$!
 
