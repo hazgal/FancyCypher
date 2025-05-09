@@ -24,7 +24,7 @@ __Options for Mac users:__
 5. Build your Main.java with _javac Main.java_ and then running _./Fancycypher.sh_
 
 According to ChatGPT, this slightly reconfigured script might work better under MacOS:
- ```
+ ```BASH
 #!/usr/local/bin/bash
 
 # Make sure here the filepaths are correct!!
