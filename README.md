@@ -11,14 +11,17 @@ __Guide for Gnu/Linux users:__
 
 __Guide for other OS users__
 
-Install GNU/Linux, don't allow yourself in the hands of Corporate overlords!
-But some tips that still might help
+Install GNU/Linux, don't allow yourself in the hands of Corporate overlords! :D
+
+But if you insist on maintaining your sanity and personal life, here are few tips that still might help you get this running:
   
 __Options for Mac users:__
     
-1. Running GNU/Linux Virtual Machine and following the steps described above.
+1. Running GNU/Linux Virtual Machine and following the steps described above _OR..._
 2. Installing _mpv_ and _lolcat_ thru Homebrew by running _brew install mpv lolcat openjdk_
-3. Change filepaths for .mp3 files and running the script.
+3. Change filepaths for .mp3 files
+4. Making the _.sh_ file executable by running (in your terminal) _chmod +x FancyCypher.sh_
+5. Build your Main.java with _javac Main.java_ and then running _./Fancycypher.sh_
 
 According to ChatGPT, this slightly reconfigured script might work better under MacOS:
  ```
@@ -44,4 +47,4 @@ pkill -f "mpv"
 ```
 __Options for Windows users__
 
-Good luck!
+Sadly I have no idea. Last time I used windows was back in the good ol' days of Windows XP. Good luck!
