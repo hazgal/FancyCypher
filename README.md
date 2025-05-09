@@ -47,4 +47,4 @@ pkill -f "mpv"
 ```
 __Options for Windows users__
 
-Sadly I have no idea. Last time I used windows was back in the good ol' days of Windows XP. Good luck!
+Good luck! Sadly I have no idea. Last time I used Windows was back in the good ol' days of Windows XP, when the desktops were greener and titlebars shined bright blue like a summertime skies.
